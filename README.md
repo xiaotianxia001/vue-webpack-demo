@@ -1,2 +1,2 @@
 # vue-webpack-demo
- a demo of vue-webpack
+ 手动配置wenpack并利用vue实现一个列表的增删等基本功能。
